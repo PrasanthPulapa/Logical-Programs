@@ -18,6 +18,7 @@ public class AmstrongNumCheck {
 			System.out.println(num + " is not a armstrong number");
 		}
 		scan.close();
+		system.out.println("yes")
 	}
 	
 	int armstrongCheck(int num) {
