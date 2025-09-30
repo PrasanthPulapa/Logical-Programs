@@ -18,8 +18,8 @@ public class AmstrongNumCheck {
 			System.out.println(num + " is not a armstrong number");
 		}
 		scan.close();
-		system.out.println("yes")
-		sysyem.out.println("new commit");
+		System.out.println("yes");
+		System.out.println("new commit");
 	}
 	
 	int armstrongCheck(int num) {
