@@ -19,6 +19,7 @@ public class AmstrongNumCheck {
 		}
 		scan.close();
 		system.out.println("yes")
+		sysyem.out.println("new commit");
 	}
 	
 	int armstrongCheck(int num) {
