@@ -12,10 +12,10 @@ public class AmstrongNumCheck {
 		AmstrongNumCheck a = new AmstrongNumCheck();
 		int result = a.armstrongCheck(num);
 		if (num == result) {
-			System.out.println(num + " is a armstrong number");
+			System.out.println(num + " is a amstrong number");
 		}
 		else {
-			System.out.println(num + " is not a armstrong number");
+			System.out.println(num + " is not a amstrong number");
 		}
 		scan.close();
 		System.out.println("yes");
